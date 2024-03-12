@@ -1,4 +1,4 @@
-# Simulazione-backend-e-commerce
+# Simulazione backend E-commerce
 
 Il progetto in questione è stato creato al fine di superare un esame universitario. Si precisa che è sviluppato in collaborazione con altri studenti
 
